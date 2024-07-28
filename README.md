@@ -1,5 +1,4 @@
-![rainy-day](https://i.pinimg.com/originals/4f/f0/88/4ff088795aff41e835671f1479fa0366.gif)
-
+<img src="https://i.pinimg.com/originals/4f/f0/88/4ff088795aff41e835671f1479fa0366.gif" height=200>
 <!--
 **zoya-hussain/zoya-hussain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
