@@ -2,7 +2,7 @@
 
 Hey there, welcome to my nook! I'm Zoya Hussain (conveniently @zsh), a 17 year old designer and developer from Dallas, TX. I'm interested in the development of human-centered software and interfaces. I love creating technology that merges utility with thoughtful design.
 
-- 🔭 I’m currently working on a game about climate change awareness, inspired by greek mythos and Scott Pilgrim vs. the World.
+- 🔭 I’m currently working on learning about the intersection between art, ethics, & code.
 - 🌱 I’m currently learning about cybersecurity, AI governance and ethics, and game development.
 - 🫶🏼 I’m looking to collaborate on anything! Feel free to reach out :)  
 
