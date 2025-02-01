@@ -1,6 +1,6 @@
 ## 🌿 Zoya Hussain
 
-Hey there, welcome to my nook! I'm Zoya Hussain (conveniently @zsh), a 17 year old designer and developer from Dallas, TX. I'm interested in the development of human-centered software and interfaces. I love creating technology that merges utility with thoughtful design.
+Hey there, welcome to my GitHub! I'm Zoya Hussain (conveniently @zsh), a 17 year old designer and developer from Dallas, TX. I'm interested in the development of human-centered software and interfaces. I love creating technology that merges utility with thoughtful design.
 
 - 🔭 I’m currently working on learning about the intersection between art, ethics, & code.
 - 🌱 I’m currently learning about cybersecurity, AI governance and ethics, and game development.
