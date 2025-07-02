@@ -1,6 +1,6 @@
 ## 🌿 zoya hussain
 
-welcome to my GitHub! i'm zoya hussain (conveniently @zsh), an 18-year-old designer and developer from dallas, tx. i'm interested in the development of human-centered interfaces for personal & social computing. currently, i'm a first-year student at yale, student computer science, cognitive science, and statistics/dats science :D
+welcome to my GitHub! i'm zoya hussain (conveniently @zsh), an 18-year-old designer and developer from dallas, tx. i'm interested in the development of human-centered interfaces for personal & social computing. currently, i'm a first-year student at yale, student computer science, cognitive science, and statistics/data science.
 
 - 🔭 i’m working on learning about the intersection between art, ethics, & code. 
 - 🌱 i’m currently learning about cybersecurity, AI governance and ethics, and mechanistic interpretability :)
